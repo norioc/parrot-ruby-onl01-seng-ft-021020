@@ -3,7 +3,8 @@
 
 def parrot(phrase="Squawk")
   
-  puts "Squawk!"
+  puts "phase"
+  phase
  return  "Pretty bird!"
   "Squawk!"
 end 
